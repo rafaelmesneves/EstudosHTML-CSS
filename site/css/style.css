@@ -1,0 +1,25 @@
+body {
+    background: #253660;
+    padding: 0 24px;
+    color: white; /* cacetada */
+    margin: 0;
+    height: 150vh; /*vh significa view height*/
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    flex-direction: column;  /*Aqui é para deixar um abaixo do outro*/
+    font-size: 20px;
+  }
+  
+video {
+    width: 80%;
+    height: auto;
+}
+
+a {
+    color: #c0b91f; 
+}
+
+h1, h2{
+    text-decoration: underline;
+}
